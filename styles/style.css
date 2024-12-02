@@ -1,0 +1,46 @@
+html {
+	font-size: 22px;
+}
+
+figcaption {
+	text-align: center;
+}
+
+table {
+	margin-top: 50px;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+caption {
+	margin-bottom: 20px;
+}
+
+th,
+td {
+	border: 1px solid #000;
+	padding: 10px;
+	text-align: center;
+}
+
+.soyYo {
+	float: left;
+	margin-right: 40px;
+}
+
+.clear {
+	clear: both;
+}
+
+.video {
+	text-align: center;
+	margin: 50px;
+}
+
+.gallery {
+	display: flex;
+	justify-content: space-around;
+	gap: 20px;
+	flex-wrap: wrap;
+	margin-top: 20px;
+}
